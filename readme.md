@@ -10,10 +10,9 @@
 .envに以下を設定します。
 
 ```
-APP_NAME=wget2doc
 WGET_DOMAIN=example.com
 GOOGLE_APPLICATION_CREDENTIALS='jsonファイルのパス'
-SPREAD_SHEET_ID='スプレッドシートのID'__
+SPREAD_SHEET_ID='スプレッドシートのID'
 SPREAD_SHEET_NAME = 'シートの名称'
 
 ```
