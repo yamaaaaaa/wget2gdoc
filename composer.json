@@ -1,0 +1,13 @@
+{
+    "name": "taka/wget2gdoc",
+    "require": {
+        "vlucas/phpdotenv": "^3.3",
+        "google/apiclient": "^2.0",
+        "jaeger/querylist": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
